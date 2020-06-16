@@ -1,0 +1,23 @@
+{
+  "name": "visionseed-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ffmpeg.js": "^3.1.9001",
+    "google-protobuf": "^3.10.0",
+    "node-rtsp-stream": "0.0.8",
+    "serialport": "^8.0.5",
+    "visionseed": "^1.1.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "socket.io": "^2.3.0"
+  }
+}
